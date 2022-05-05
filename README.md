@@ -1,7 +1,11 @@
 ### staticf0x
 
 [![staticf0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=staticf0x&show_icons=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![staticf0x's Repo stats](https://github-readme-stats.vercel.app/api/top-langs?username=staticf0x&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![staticf0x's Repo stats](https://github-readme-stats.vercel.app/api/top-langs?username=staticf0x&hide=html,css&layout=compact)](https://github.com
+/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **staticf0x/staticf0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
