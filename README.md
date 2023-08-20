@@ -5,6 +5,7 @@
 - [GQL prompt](https://github.com/staticf0x/gql-prompt) – for browsing GQL schema
 - [Schema Viewer](https://github.com/staticf0x/schema-viewer) – export yaml/jsonschema into HTML/Markdown
 - [MR monitor](https://github.com/staticf0x/mrmonitor) – CLI tool for monitoring GitLab merge requests
+- [Python project template](https://github.com/staticf0x/python-project-template)
 
 ## System setup
 
