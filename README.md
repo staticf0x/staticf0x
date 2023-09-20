@@ -1,6 +1,6 @@
 ## Python projects
 
-- [Unique Matcher](https://github.com/staticf0x/unique-matcher) – Detect unique items in Path of Exile with OpenCV, Pillow and Tesseract
+- [Unique Matcher](https://github.com/staticf0x/unique-matcher) – detect unique items in Path of Exile with OpenCV, Pillow and Tesseract
 - [Daylio Stats](https://github.com/staticf0x/daylio-stats) – Django App for processing Daylio exports
 - [Daylio Parser](https://github.com/staticf0x/daylio-parser) – parse Daylio CSV exports
 - [GQL prompt](https://github.com/staticf0x/gql-prompt) – for browsing GQL schema
