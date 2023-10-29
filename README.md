@@ -11,7 +11,7 @@
 
 ## System setup
 
-- `~/bin` folder: [bin files](https://github.com/staticf0x/bin)
+- [`~/bin` files](https://github.com/staticf0x/bin), [`~/.config` files and other](https://github.com/staticf0x/config)
 - Sublime Text & Sublime Merge configs: [sublime-config](https://github.com/staticf0x/sublime-config)
 - Sublime Plugins & Snippets: [sublime-plugins](https://github.com/staticf0x/sublime-plugins)
 
