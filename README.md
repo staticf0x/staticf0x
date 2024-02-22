@@ -7,8 +7,11 @@
 - [Schema Viewer](https://github.com/staticf0x/schema-viewer) – export yaml/jsonschema into HTML/Markdown
 - [MR monitor](https://github.com/staticf0x/mrmonitor) – CLI tool for monitoring GitLab merge requests
 - [GitLab CLI](https://github.com/staticf0x/gl-cli) – display info about GitLab pipelines
-- [mdbook-abbr](https://github.com/staticf0x/mdbook-abbr) – expand abbreviations in mdBook
 - [Python project template](https://github.com/staticf0x/python-project-template)
+
+## Rust projects
+
+- [mdbook-abbr](https://github.com/staticf0x/mdbook-abbr) – expand abbreviations in mdBook
 
 ## System setup
 
