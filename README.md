@@ -7,7 +7,6 @@
 - [Schema Viewer](https://github.com/staticf0x/schema-viewer) – export yaml/jsonschema into HTML/Markdown
 - [MR monitor](https://github.com/staticf0x/mrmonitor) – CLI tool for monitoring GitLab merge requests
 - [GitLab Plumber](https://github.com/staticf0x/gitlab-plumber) – display info about GitLab pipelines
-- [Python project template](https://github.com/staticf0x/python-project-template)
 
 ## Rust projects
 
